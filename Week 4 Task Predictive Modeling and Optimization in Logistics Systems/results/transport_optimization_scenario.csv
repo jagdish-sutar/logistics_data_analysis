@@ -1,0 +1,4 @@
+Transport_Mode,Region,Priority,Shipment_Volume,Distance_KM,Warehouse_Processing_Hours,Weather_Disruption,Peak_Period,Transport_Cost,Predicted_Delivery_Days,Late_Days,Objective_Cost
+Road,Central,Standard,250,1000,8,0,0,380,6.146204016284101,1.1462040162841012,465.9653012213076
+Rail,Central,Standard,250,1000,8,0,0,520,7.195387398293191,2.1953873982931906,684.6540548719893
+Air,Central,Standard,250,1000,8,0,0,900,4.450825213405924,0.0,900.0

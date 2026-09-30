@@ -1,0 +1,2 @@
+Model,MAE,RMSE,R2,Best_Params
+Tuned Random Forest,0.6598212479273227,0.8184561228871011,0.7586373559878187,"{'model__max_depth': 12, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
